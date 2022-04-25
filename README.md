@@ -2,15 +2,20 @@
   
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=hyun-woong&show_icons=true&theme=cobalt&hide="/>
  
-  ### 🐣 hyun-woong 🐥 
+  ### 🌿 hyun-woong 🌿
  
  <a href="https://github.com/hyun-woong">
  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyun-woong&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/>
-  </a></a> 
+  </a>
+  <br>
+  </a> 
   
-  ---
+<br>
 
-🍏 [**hyun-woong**](https://woong0926.tistory.com) 🍏 공부기록 개발블로그
+🌊 [**hyun-woong**](https://woong0926.tistory.com) 🌊  공부기록 개발블로그
+<br>
+<br>
+⚓ [**hyun-woong**](https://woong0926.tistory.com) ⚓  공부기록 개발블로그
  
  <br>
  
@@ -27,7 +32,16 @@
  
 ### Once I've used...✏️
   
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/IntelliJ-2C2255?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+ <br>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+ <br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+

@@ -32,7 +32,7 @@
   
 ### 📚 Education
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Java-EC2025?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Gradle-39D52D?style=for-the-badge&logo=Gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-181818?style=for-the-badge&logo=Notion&logoColor=white">

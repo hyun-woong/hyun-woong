@@ -44,9 +44,18 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
   
-  <br>  
+<br>  
 <img src="https://img.shields.io/badge/Jenkins-D73634?style=for-the-badge&logo=Jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jwt&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-4DCBFE?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/AWS EC2-F58536?style=for-the-badge&logo=AWS&logoColor=white">
 <img src="https://img.shields.io/badge/QueryDsl-747474?style=for-the-badge&logo=QueryDsl&logoColor=white">
+   
+<br>  
+
+---
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mr_woong)](https://solved.ac/mr_woong)
+ 
+
+  

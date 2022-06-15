@@ -50,12 +50,12 @@
 <img src="https://img.shields.io/badge/Docker-4DCBFE?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/AWS EC2-F58536?style=for-the-badge&logo=AWS&logoColor=white">
 <img src="https://img.shields.io/badge/QueryDsl-747474?style=for-the-badge&logo=QueryDsl&logoColor=white">
-<!--    
+  
 <br>  
 
 ---
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mr_woong)](https://solved.ac/mr_woong) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mr_woong)](https://solved.ac/mr_woong)
  
 
   

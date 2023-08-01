@@ -55,7 +55,7 @@
 
 ---
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mr_woong)](https://solved.ac/mr_woong)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mr_woong)](https://solved.ac/mr_woong/)
  
 
   
